@@ -1,0 +1,33 @@
+State Group	ID	Name			Wwise Object Path	Notes
+	317282339	Weather			\Default Work Unit\Weather	
+
+State	ID	Name	State Group			Notes
+	748895195	None	Weather			
+	1935470627	Light	Weather			
+	2732489590	Heavy	Weather			
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	1381369	VOICE_Eff			\Default Work Unit\Master Audio Bus\VOICE_Eff	
+	682427885	Music_Title_Ducking			\Default Work Unit\Master Audio Bus\Music_Title_Ducking	
+	805203703	Master Secondary Bus			\Default Work Unit\Master Secondary Bus	
+	1550684365	Music_Kill			\Default Work Unit\Master Audio Bus\Music_Kill	
+	1584861537	SE			\Default Work Unit\Master Audio Bus\SE	
+	1685527059	ME			\Default Work Unit\Master Audio Bus\ME	
+	2685569790	Music_Ducking_10			\Default Work Unit\Master Audio Bus\Music_Ducking_10	
+	2702347348	Music_Ducking_05			\Default Work Unit\Master Audio Bus\Music_Ducking_05	
+	3170124113	VOICE			\Default Work Unit\Master Audio Bus\VOICE	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+	3991942870	Music			\Default Work Unit\Master Audio Bus\Music	
+	4258233943	Music_without_Ducking			\Default Work Unit\Master Audio Bus\Music_without_Ducking	
+
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	357718954	Delay			\Default Work Unit\Master Audio Bus\SE\Delay	
+	1194319010	Reberve			\Default Work Unit\Master Audio Bus\SE\Reberve	
+
+Effect plug-ins	ID	Name	Type				Notes
+	32610624	Wwise Delay (Custom)	Wwise Delay			
+	651847695	Medium_Room1 (Custom)	Wwise Matrix Reverb			
+	821299825	Wwise Peak Limiter (Custom)	Wwise Peak Limiter			
+	1459522457	Brick_Wall_Minus_1dB_Peak_Fast_Release	Wwise Peak Limiter			
+	3673681183	Large_Bright_Chamber1	Wwise Matrix Reverb			
+
