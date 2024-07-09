@@ -1,0 +1,51 @@
+### Regular Recipes:
+19 White Sand Baked Rice à la Cube
+20 Powder Cheese Pudding à la Cube
+21 Rainforest Steamed Cake à la Cube
+22 Lava Baked Pie à la Cube
+23 Glowing Blue Braised Pot à la Cube
+
+### Limited Time Only Recipes:
+L01 Sparkling Drink à la Cube
+L02 Colorful Fruit Mix à la Cube
+L05 Sweetheart Cake à la Cube
+L06 Floating Mushroom Soup à la Cube
+L07 Floating Leaf Soup à la Cube
+L08 Jingle Fruit Pudding à la Cube
+L09 Eight Treasures Steamed Dish à la Cube
+L10 Cherry Fruit Balls à la Cube
+L11 Green Dumplings à la Cube
+L12 Reversal Energy Drink à la Cube
+L13 Glutinous Steamed Bun à la Cube
+L14 Hot Stew Pot à la Cube
+L15 Deep Sea Soda à la Cube
+L16 Love Sweet Soup à la Cube
+L17 Green Fruit Drink à la Cube
+L18 Reunion Cake à la Cube
+L19 Seafood Porridge à la Cube
+L20 Strange Flavor Baked Pie à la Cube
+L21 Sweet Potato Dumplings à la Cube
+L23 Colorful Thick Soup à la Cube
+L25 Secret Realm Cake à la Cube
+L27 Warm Flower Cake à la Cube
+L28 Golden Fruit Pie à la Cube
+L30 Victory Fruit Roll à la Cube
+L32 Secret Realm Thick Soup à la Cube
+L33 Pearl Freeze Drink à la Cube
+L34 Quiet Cake à la Cube
+L35 Festival Cake à la Cube
+L36 Crescent Cake à la Cube
+L37 Energy Bar à la Cube
+L38 Stone Pot Stew à la Cube
+L39 Snow Ice Freeze Drink à la Cube
+L40 Fortune Jelly à la Cube
+L41 Leaf Pancake à la Cube
+L42 Golden Fruit Drink à la Cube
+L43 Red Flame Special Drink à la Cube
+L44 Heart and Soul Fruit Pie à la Cube
+L45 Cool Cake à la Cube
+
+### Special Recipes:
+S01 Special Flowing Light Cake à la Cube
+S18 Anniversary Celebration Legendary Cake à la Cube
+S19 Anniversary Celebration Exotic Cake à la Cube
