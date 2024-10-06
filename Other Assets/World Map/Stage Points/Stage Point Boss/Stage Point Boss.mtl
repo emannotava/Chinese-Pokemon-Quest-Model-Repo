@@ -1,7 +1,7 @@
-# Blender 4.2.0 MTL File: 'World Map.blend'
+# Blender 4.2.0 MTL File: 'Stage Point.blend'
 # www.blender.org
 
-newmtl point_stage_lock
+newmtl point_stage_boss
 Ns 1000.000000
 Ka 1.000000 1.000000 1.000000
 Ks 0.000000 0.000000 0.000000
@@ -9,4 +9,4 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd point_stage_lock.png
+map_Kd point_stage_boss.png
